@@ -1,0 +1,8 @@
+El código fuente está programado sobre ubuntu, con lo cual la ejecución del programa se hará en dicho sistema operativo. 
+
+Para compilarlo, se seguirán los siguientes pasos:
+
+	1- Se descomprime la carpeta BÁSICO en algún lugar de nuestro usuario.
+	2- Abrimos la terminal (usaremos el programa GCC) y movemos el directorio de trabajo de la terminal a nuestra carpeta descomprimida.
+	3- Compilamos con el comando: gcc -Wall solitario.c -o solitario
+        4- Ejecutamos el juego introduciendo: ./solitario
